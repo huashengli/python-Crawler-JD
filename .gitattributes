@@ -1,1 +1,3 @@
 *.py linguist-language=python
+*.cfg linguist-language=python
+*.java linguist-language=txt
